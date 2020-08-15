@@ -1,10 +1,12 @@
 # PROJECT-001
 
 Libraries Imported
+
 FPDF, PANDAS and MATPLOTLIB
 
 
 FPDF
+
 PyFPDF is a library for PDF document generation under Python, ported from PHP (see FPDF: "Free"-PDF, a well-known PDFlib-extension replacement with many examples, scripts and derivatives).
 
 Latest Released Version: 1.7 (August 15th, 2012) - Current Development Version: 1.7.1
