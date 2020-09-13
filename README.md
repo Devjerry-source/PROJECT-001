@@ -1,18 +1,19 @@
 # PROJECT-001
-AUTOMATING REPORT CARD GENERATION FOR EDUCTIONAL INSTITUTE LEARNING
 
-Libraries Imported
+## AUTOMATING REPORT CARD GENERATION FOR EDUCTIONAL INSTITUTE LEARNING
+
+### Libraries Imported
 
 FPDF, PANDAS and MATPLOTLIB
 
 
-FPDF
+#### FPDF
 
 PyFPDF is a library for PDF document generation under Python, ported from PHP (see FPDF: "Free"-PDF, a well-known PDFlib-extension replacement with many examples, scripts and derivatives).
 
 Latest Released Version: 1.7 (August 15th, 2012) - Current Development Version: 1.7.1
 
-Main features
+##### Main features
 Easy to use (and easy to extend)
 Many simple examples and scripts available in many languages
 No external dependencies or extensions (optionally PIL for GIF support)
